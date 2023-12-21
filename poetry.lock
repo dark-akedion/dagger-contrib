@@ -840,11 +840,6 @@ files = [
     {file = "pytz-2023.3.post1.tar.gz", hash = "sha256:7b4fddbeb94a1eba4b557da24f19fdf9db575192544270a9101d8509f9f43d7b"},
 ]
 
-[package.source]
-type = "legacy"
-url = "https://artifactory.glovoint.com/artifactory/api/pypi/glovo-pypi/simple"
-reference = "glovo-pypi"
-
 [[package]]
 name = "pyyaml"
 version = "6.0.1"
